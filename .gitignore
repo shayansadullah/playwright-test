@@ -2,6 +2,5 @@ node_modules
 .vscode
 jenkins.war
 playwright-report
-package-lock.json
 *.screenshot
 .DS_Store
